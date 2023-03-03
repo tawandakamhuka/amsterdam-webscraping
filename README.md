@@ -7,5 +7,5 @@ The following libraries were used within the script:
 - requests
 - writer
 
-Contributing
+#### Contributing
 If you find any bugs or issues with this script, please feel free to open an issue or submit a pull request.
